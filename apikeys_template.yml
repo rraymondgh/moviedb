@@ -1,0 +1,4 @@
+# insert your API keys.  rename to apikeys.yml
+keys:
+    omdb: xxxx
+    tmdb: yyyy

@@ -1,0 +1,7 @@
+pandas
+jupyterlab
+bs4
+lxml
+wget
+pyyaml
+matplotlib
