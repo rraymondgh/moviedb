@@ -5,3 +5,10 @@ lxml
 wget
 pyyaml
 matplotlib
+google-api-python-client
+oauth2client
+oauth2
+flask
+MarkupSafe
+plotly
+jupyter-dash
